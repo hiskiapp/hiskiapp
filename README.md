@@ -3,7 +3,7 @@
 [![E-Mail](https://img.shields.io/badge/email-reveal-369?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/DJ1r1)
 [![Visits](https://gpvc.arturio.dev/hiskiapp)](https://github.com/hiskiapp)
 
-Hi there, I'm **Hiskia**, a **Web Developer** 🚀 from Indonesian
+Hi there, I'm **Hiskia**, a **Web Developer** 🚀 from Indonesia
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="GIF" src="https://gist.githubusercontent.com/hiskiapp/5d907e1e546189b2d22aa228be4b61d0/raw/89bda6f411a45750b5e5c5d063fe75c1fe4c4a7f/5d907e1e546189b2d22aa228be4b61d0.gif" />
