@@ -22,7 +22,7 @@ Hi there, I'm **Hiskia**, a **Web Developer** 🚀 from Indonesian
   <summary><b>Statistic</b> <i>(click to expand!)</i></summary>
 
 [![Hiskia's github stats](https://github-readme-stats.vercel.app/api?username=hiskiapp&hide=contribs,prs)](https://github.com/hiskiapp)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiskiapp&layout=compact&hide=html,css)](https://github.com/hiskiapp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiskiapp&layout=compact)](https://github.com/hiskiapp)
 
 </details>
 
