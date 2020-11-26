@@ -1,5 +1,5 @@
 ### Hey 👋!
-[![Website](https://img.shields.io/badge/website-dev-2a8?style=flat-square&logo=safari&logoColor=white)](https://hiskia.dev)
+[![Website](https://img.shields.io/badge/website-dev-2a8?style=flat-square&logo=safari&logoColor=white)](https://hiskia.app)
 [![E-Mail](https://img.shields.io/badge/email-reveal-369?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/DJ1r1)
 [![Visits](https://gpvc.arturio.dev/hiskiapp)](https://github.com/hiskiapp)
 
