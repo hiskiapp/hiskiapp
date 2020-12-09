@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Menginstal Anaconda di Windows](https://hiskia.app/instal-anaconda/)
+- [Beberapa Tips Supaya Anda Menjadi Tetap Produktif](https://hiskia.app/tips-produktif/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
