@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiskiapp&label=Profile%20views&color=0e75b6&style=flat" alt="hiskiapp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hiskiapp" target="blank"><img src="https://img.shields.io/twitter/follow/hiskiapp?logo=twitter&style=for-the-badge" alt="hiskiapp" /></a> </p>
-
 - 🌱 I’m currently learning **React, Python**
-
-- 👨‍💻 All of my projects are available at [https://hiskia.app/portfolio](https://hiskia.app/portfolio)
 
 - 📝 I regularly write articles on [https://hiskia.app](https://hiskia.app)
 
@@ -38,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiskiapp&show_icons=true&locale=en&layout=compact&hide=html" alt="hiskiapp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiskiapp&show_icons=true&locale=en" alt="hiskiapp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiskiapp&show_icons=true&locale=en" alt="hiskiapp" /></p>
