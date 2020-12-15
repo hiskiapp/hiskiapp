@@ -18,7 +18,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Cara Menginstal Anaconda di Windows](https://hiskia.app/instal-anaconda/)
-- [Beberapa Tips Supaya Anda Menjadi Tetap Produktif](https://hiskia.app/tips-produktif/)
+- [Apa itu Cyberbullying dan Faktornya](https://hiskia.app/cyberbullying/)
+- [Rangkuman Materi Mengenai Media Sosial](https://hiskia.app/materi-media-sosial/)
+- [Rangkuman Materi Mengenai Teknik Literasi Informasi](https://hiskia.app/literasi-informasi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
