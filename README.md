@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hi@hiskia.app**
 
-- 📄 Know about my experiences [https://hiskia.app/portfolio](https://hiskia.app/portfolio)
+- 📄 Know about my experiences [https://hiskia.dev](https://hiskia.dev)
 
 - 💕 I'm currently fall in love with Laravel
 
