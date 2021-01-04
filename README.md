@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Javascript, Python**
 
-- 👨‍💻 All of my projects are available at [hiskia.dev](hiskia.dev)
+- 👨‍💻 All of my projects are available at [https://hiskia.dev](https://hiskia.dev)
 
-- 📝 I regularly write articles on [hiskia.app](hiskia.app)
+- 📝 I regularly write articles on [https://hiskia.app](https://hiskia.app)
 
 - 💬 Ask me about **laravel, react**
 
 - 📫 How to reach me **hi@hiskia.app**
 
-- 📄 Know about my experiences [hiskia.dev](hiskia.dev)
+- 📄 Know about my experiences [https://hiskia.dev](https://hiskia.dev)
 
 - ⚡ Fun fact **First solve the problem, then write the code**
 
