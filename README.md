@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Internet & World Wide Web](https://hiskia.app/internet-www/)
 - [Cara Menginstal Anaconda di Windows](https://hiskia.app/instal-anaconda/)
 - [Apa itu Cyberbullying dan Faktornya](https://hiskia.app/cyberbullying/)
 - [Rangkuman Materi Mengenai Media Sosial](https://hiskia.app/materi-media-sosial/)
+- [Rangkuman Materi Mengenai Teknik Literasi Informasi](https://hiskia.app/literasi-informasi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
