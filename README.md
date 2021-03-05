@@ -9,21 +9,13 @@
 
 - 📝 I regularly write articles on [https://hiskia.app](https://hiskia.app)
 
-- 💬 Ask me about **laravel, react**
+- 💬 Ask me about **laravel**
 
 - 📫 How to reach me **hi@hiskia.app**
 
 - 📄 Know about my experiences [https://hiskia.dev](https://hiskia.dev)
 
 - ⚡ Fun fact **First solve the problem, then write the code**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Apa itu Cyberbullying dan Faktornya](https://hiskia.app/cyberbullying/)
-- [Rangkuman Materi Mengenai Media Sosial](https://hiskia.app/materi-media-sosial/)
-- [Rangkuman Materi Mengenai Teknik Literasi Informasi](https://hiskia.app/literasi-informasi/)
-- [Beberapa Tips Supaya Anda Menjadi Tetap Produktif](https://hiskia.app/tips-produktif/)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
