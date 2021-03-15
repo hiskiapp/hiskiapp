@@ -15,10 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Apa itu Cyberbullying dan Faktornya](https://hiskia.app/cyberbullying/)
-- [Rangkuman Materi Mengenai Media Sosial](https://hiskia.app/materi-media-sosial/)
-- [Rangkuman Materi Mengenai Teknik Literasi Informasi](https://hiskia.app/literasi-informasi/)
-- [Beberapa Tips Supaya Anda Menjadi Tetap Produktif](https://hiskia.app/tips-produktif/)
+- [Some Tips To Keep You Productive](https://hiskia.dev/some-tips-to-keep-you-productive/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiskiapp&show_icons=true&locale=en&layout=compact" alt="hiskiapp" /></p>
