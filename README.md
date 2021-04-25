@@ -13,9 +13,4 @@
 
 - 📄 Know about my experiences [hiskia.dev](hiskia.dev)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Some Tips To Keep You Productive](https://hiskia.dev/some-tips-to-keep-you-productive/)
-<!-- BLOG-POST-LIST:END -->
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiskiapp&show_icons=true&locale=en&layout=compact" alt="hiskiapp" /></p>
